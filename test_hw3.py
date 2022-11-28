@@ -1,9 +1,9 @@
-def test_five():
-    assert 5 < 6
+def test_seven():
+    assert 4 < 6
 
 
-def test_six():
-    assert 5 < 7
+def test_eight():
+    assert 4 < 7
 
 
 
